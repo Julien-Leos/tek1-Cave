@@ -1,0 +1,6 @@
+MULTI 5
+MIN 0 21
+MAX 0 21
+SAVE
+SPEAK Les gardes s'ecarte devant votre nouveau grade est vous decouvrez le bout du tunel
+QUETE 0 1

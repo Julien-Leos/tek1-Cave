@@ -1,0 +1,11 @@
+INIT 600 1 16,0,0,5,5,0 14 1 2 50
+MULTI 3
+PNJ 1
+JUMP 0 10 1
+SPEAK Je ne suis pas pret.
+MULTI 5
+SPEAK Je suis sur d'une chose../Tu seras perdant.
+FIGHT 1
+SPEAK Beau combat !
+QUETE 0 1
+GIVE 61 2000

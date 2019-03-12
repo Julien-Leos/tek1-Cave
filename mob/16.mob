@@ -1,0 +1,11 @@
+INIT 1000 1 4,0,0,5,5,0 14 1 1 49
+MULTI 3
+PNJ 1
+JUMP 0 9 1
+SPEAK Je ne suis pas pret.
+MULTI 5
+SPEAK Tu vas perdre noob !
+FIGHT 1
+SPEAK Beau combat !
+QUETE 0 1
+GIVE 61 2000

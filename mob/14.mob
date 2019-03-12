@@ -1,0 +1,9 @@
+INIT 300 1 0,0,0,0,0,0 0 0 5 57
+MULTI 6
+PNJ 1
+JUMP 0 7 1
+SPEAK J'ai des recherches a faire.
+MAX 0 7
+MIN 0 7
+SPEAK Oui ce livre est vraiment tres ancien./Voyons voir ce qu'il raconte/.../hmm.../Interessant/En majeur partie il parle de la construction de Grandia/Ce passage la est tres interessant il nous parle d'une ancienne route marchande@qui n'existe pas sur les cartes actuelles/hummm...../En effet cela concorde avec la position des gardes/Un jeune homme est passe il y a quelques mois par ici dans un but similaire@Tu devrais pouvoir le trouver pres de l'arene.
+QUETE 0 1

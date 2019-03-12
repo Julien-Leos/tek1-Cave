@@ -1,0 +1,16 @@
+INIT 300 1 0,0,0,0,0,0 0 0 5 59
+MULTI 4
+PNJ 1
+JUMP 0 8 2
+JUMP 0 12 7
+SPEAK J'attend pour les combats@Je dois rester concentrer.
+MULTI 3
+MAX 0 8
+SPEAK Salut je suis Billy/Toi aussi tu cherches a savoir ce que les gardes cachent dans Grandia!/Je voulais le voir de mes propres yeux@mais je n'arrive pas a passer le tunnel/Je dois m'entrainer en battant les 3 personnes ici!/Si tu veux que je te dise comment trouver des informations@tu vas devoir battre les 3 ici!/Tu devras surement t'entrainer avant...
+QUETE 0 1
+
+
+MULTI 4
+MAX 0 12
+SPEAK Bravo! Tu as prouve ta valeur/je te conseille d'aller voir ma grand mere@Elle se situe dans la grande ville pres du champs de fleurs surment dans ça maison./Elle est un peu folle mais dit souvent la verite@Elle a connu la route marchande dont parle le livre...
+QUETE 0 1

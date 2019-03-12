@@ -1,0 +1,4 @@
+INIT 900 1 0,0,7,10,4,0 0 1 3 83
+MULTI 3
+PNJ 1
+SPEAK Hello !!/Nous jouons a un jeu genial/.../Enfin je crois !

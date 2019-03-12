@@ -1,0 +1,13 @@
+INIT 100 1 6,6,6,6,6,6 80 0 3 53
+MULTI 2
+JUMP 0 0 7
+MULTI 3
+PNJ 1
+RETURN_OBJ 61 1
+SPEAK Ramene moi d'autres pommes et tu auras encore des potions !
+MULTI 2
+GIVE 1 1
+SPEAK Merci pour les pommes!@Je vais faire une bonne tarte pour ce soir!
+MULTI 2
+SPEAK Enfin leve !/Je pensais faire une tarte aux pommes pour ce soir@Mais je n'ai plus de pommes tu pourrais en prendre au marche?
+QUETE 0 1

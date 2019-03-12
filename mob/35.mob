@@ -1,0 +1,11 @@
+INIT 4000 1 60,0,0,25,5,0 70 1 3 56
+MULTI 3
+PNJ 1
+JUMP 0 17 1
+RAND_SPEAK Zzzzzz
+MULTI 5
+MAX 0 17
+MIN 0 17
+SPEAK Je ne doute pas de vos capacite puisque je suis sur de gagne
+FIGHT 1
+QUETE 0 1

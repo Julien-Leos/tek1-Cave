@@ -1,0 +1,8 @@
+MULTI 2
+SPEAK Il n'y a aucun livre ici.
+JUMP 0 3 1
+
+MULTI 3
+MAX 0 3
+MIN 0 3
+QUETE 0 1

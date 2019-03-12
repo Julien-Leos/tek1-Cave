@@ -1,0 +1,11 @@
+INIT 900 1 10,0,0,5,15,0 18 1 7 51
+MULTI 3
+PNJ 1
+JUMP 0 11 1
+SPEAK Je ne suis pas pret.
+MULTI 5
+SPEAK Alors comme ca tu veux vraiment combattre mes petites betes ?!
+FIGHT 1
+SPEAK Beau combat!
+QUETE 0 1
+GIVE 61 2000

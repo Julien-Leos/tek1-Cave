@@ -1,0 +1,8 @@
+INIT 300 1 0,0,0,0,0,0 0 1 5 61
+MULTI 3
+PNJ 1
+RETURN_OBJ 24 1
+SPEAK J'echange des pommes Gala contre une grosse potion.
+MULTI 2
+SPEAK Et voila!
+GIVE 2 1

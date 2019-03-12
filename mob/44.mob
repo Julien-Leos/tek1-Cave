@@ -1,0 +1,4 @@
+INIT 900 1 0,0,7,10,4,0 0 0 3 53
+MULTI 2
+PNJ 1
+RAND_SPEAK Nous protegons la population!*Il faut respecter les lois*Respecter la garde

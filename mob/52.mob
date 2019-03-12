@@ -1,0 +1,10 @@
+INIT 7000 1 35,0,0,20,15,0 90 1 10 50
+MULTI 3
+PNJ 1
+JUMP 0 21 1
+RAND_SPEAK Je suis pas la....
+MULTI 5
+MAX 0 21
+MIN 0 21
+SPEAK Les gardes s'ecartent devant votre nouveau grade est vous decouvrez le bout du tunel
+QUETE 0 1

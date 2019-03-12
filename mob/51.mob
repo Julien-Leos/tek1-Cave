@@ -1,0 +1,11 @@
+INIT 7000 1 35,0,0,20,20,0 90 1 10 51
+MULTI 3
+PNJ 1
+JUMP 0 19 1
+RAND_SPEAK Zzzzzz
+MULTI 5
+MAX 0 19
+MIN 0 19
+SPEAK Je suis le premier general ! Plus fort d'entre tous !
+FIGHT 1
+QUETE 0 1

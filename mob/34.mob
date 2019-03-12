@@ -1,0 +1,11 @@
+INIT 5000 1 40,0,0,20,20,0 70 1 8 51
+MULTI 3
+PNJ 1
+JUMP 0 16 1
+RAND_SPEAK Zzzzzz
+MULTI 5
+MAX 0 16
+MIN 0 16
+SPEAK Vous n'etes pas de taille face a moi !
+FIGHT 1
+QUETE 0 1

@@ -1,0 +1,28 @@
+INIT 100 1 6,6,6,6,6,6 80 0 3 48
+MULTI 5
+PNJ 1
+JUMP 0 2 6
+JUMP 0 4 11
+JUMP 0 6 17
+SPEAK Je dois faire du rangement
+
+
+MULTI 4
+MIN 0 2
+MAX 0 2
+SPEAK Un livre sur Grandia?@Mais pourquoi faire?/Tu pense que les soldats cachent quelque chose dans Grandia!/Huum je ne sais pas je peux pas t'aider...@Mais le livre dans l armoir en bas a droite doit pouvoir t'aider.
+QUETE 0 1
+
+
+MULTI 4
+MIN 0 4
+MAX 0 4
+SPEAK Il a encore ete vole?!/Tu devrais pouvoir le retrouver en dehors de la ville.
+QUETE 0 1
+
+
+MULTI 4
+MIN 0 6
+MAX 0 6
+SPEAK En effet les ecrits ne sont pas lisibles@Vas voir le professeur il pourra t'aider/Il se trouve apres dans son laboratoire a l'exterieur de la ville@Au fond de la zone sauvage.
+QUETE 0 1

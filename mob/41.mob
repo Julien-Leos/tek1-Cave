@@ -1,0 +1,20 @@
+INIT 16000 1 65,0,0,15,15,0 25 1 6 57
+MULTI 4
+PNJ 1
+JUMP 0 15 2
+JUMP 0 20 11
+RAND_SPEAK Zzzzzz
+MULTI 5
+MAX 0 15
+MIN 0 15
+SPEAK Qui ose trouble mes pensees!/Qui es-tu toi!/Un simple paysan a mon avis/Et qui penses tu etre pour me poser des questions sur cette route marchande!/Il n'y a rien a voir rien qui ne te concerne/Puisque tu insistes si tu nous combat tout les 5 et que tu gagnes@Tu seras elu nouveau general et tu pourras aller voir de toi meme/Mais si tu perds je prendrais ton corps afin de renaitre!/Mouahahahahaahaha 
+FIGHT 1
+QUETE 0 1
+
+
+
+
+MULTI 2
+SPEAK Bien joue je dois malheureusement tenir ma promesse tu es maintenant general/Voici la cle qui le prouve...
+QUETE 0 1
+
